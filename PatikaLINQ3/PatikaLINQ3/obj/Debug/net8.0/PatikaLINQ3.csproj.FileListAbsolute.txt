@@ -1,0 +1,14 @@
+C:\Users\Yavuz\source\repos\PatikaLINQ3\PatikaLINQ3\bin\Debug\net8.0\PatikaLINQ3.exe
+C:\Users\Yavuz\source\repos\PatikaLINQ3\PatikaLINQ3\bin\Debug\net8.0\PatikaLINQ3.deps.json
+C:\Users\Yavuz\source\repos\PatikaLINQ3\PatikaLINQ3\bin\Debug\net8.0\PatikaLINQ3.runtimeconfig.json
+C:\Users\Yavuz\source\repos\PatikaLINQ3\PatikaLINQ3\bin\Debug\net8.0\PatikaLINQ3.dll
+C:\Users\Yavuz\source\repos\PatikaLINQ3\PatikaLINQ3\bin\Debug\net8.0\PatikaLINQ3.pdb
+C:\Users\Yavuz\source\repos\PatikaLINQ3\PatikaLINQ3\obj\Debug\net8.0\PatikaLINQ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yavuz\source\repos\PatikaLINQ3\PatikaLINQ3\obj\Debug\net8.0\PatikaLINQ3.AssemblyInfoInputs.cache
+C:\Users\Yavuz\source\repos\PatikaLINQ3\PatikaLINQ3\obj\Debug\net8.0\PatikaLINQ3.AssemblyInfo.cs
+C:\Users\Yavuz\source\repos\PatikaLINQ3\PatikaLINQ3\obj\Debug\net8.0\PatikaLINQ3.csproj.CoreCompileInputs.cache
+C:\Users\Yavuz\source\repos\PatikaLINQ3\PatikaLINQ3\obj\Debug\net8.0\PatikaLINQ3.dll
+C:\Users\Yavuz\source\repos\PatikaLINQ3\PatikaLINQ3\obj\Debug\net8.0\refint\PatikaLINQ3.dll
+C:\Users\Yavuz\source\repos\PatikaLINQ3\PatikaLINQ3\obj\Debug\net8.0\PatikaLINQ3.pdb
+C:\Users\Yavuz\source\repos\PatikaLINQ3\PatikaLINQ3\obj\Debug\net8.0\PatikaLINQ3.genruntimeconfig.cache
+C:\Users\Yavuz\source\repos\PatikaLINQ3\PatikaLINQ3\obj\Debug\net8.0\ref\PatikaLINQ3.dll
